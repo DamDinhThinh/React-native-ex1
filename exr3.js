@@ -17,6 +17,7 @@ function xacDinhNguoiThang(diemTB_Dolphins, diemTB_Koalas) {
 }
 
 // test data 1
+console.log("break point")
 let diemTB_Dolphins1 = tinhDiemTrungBinh(96, 108, 89);
 let diemTB_Koalas1 = tinhDiemTrungBinh(88, 91, 110);
 xacDinhNguoiThang(diemTB_Dolphins1, diemTB_Koalas1);
